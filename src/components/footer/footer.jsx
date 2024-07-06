@@ -136,7 +136,7 @@ const Footer = () => {
         <div class="bg-[#01070e;] p-6 text-center text-white">
           <span>© 2023 </span>
           <a href="https://tailwind-elements.com/">
-            All rights reserved by Khizar Wakeel
+            All rights reserved by Areeba Aijaz
           </a>
         </div>
       </div>
